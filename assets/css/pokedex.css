@@ -16,8 +16,8 @@
 }
 
 .pokemon .number {
-    color: #000;
-    opacity: .3;
+    color: rgb(0, 117, 49);
+    opacity: .5;
     text-align: right;
 }
 
